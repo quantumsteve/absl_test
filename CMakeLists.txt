@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 2.8.12)
-project(meow)
+cmake_minimum_required(VERSION 3.1)
+project(absl_test)
 
 set(CMAKE_CXX_STANDARD 14)
 set(CXX_STANDARD_REQUIRED 14)
